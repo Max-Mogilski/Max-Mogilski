@@ -3,9 +3,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Max</h1>
 <h3 align="center">I'm a young Developer from Poland.</h3>
 
-## 🙋‍♂️ About Me
+## 👨🏻‍💻 About Me
 
-- 🌱 I’m currently learning **React.**
+- 🧠 I’m currently learning **React.**
 
 - 📫 How to reach me **maksmogi@gmail.com**
 
