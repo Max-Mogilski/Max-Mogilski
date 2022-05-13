@@ -11,6 +11,14 @@
 
 - ⚡ Fun fact **I love to play guitar. I cannot live without music, gym and programming.**
 
+## Goals
+
+- Become a front-end developer
+
+- Make fullstack app
+
+- Participant in open source project
+
 ## Skills and Tools
 * / REACT / HTML / CSS / JS / SASS / TESTING / JEST / API / BOOTSTRAP / NPM / WEBPACK / ESLINT / SLICK / BABEL /
 
