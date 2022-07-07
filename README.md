@@ -7,7 +7,7 @@
 
 - 🧠 I’m currently learning **React.**
 
-- 📫 How to reach me **maksmogi@gmail.com**
+- 📫 How to reach me **maxasdev@gmail.com**
 
 - ⚡ Fun fact **I love to play guitar. I cannot live without music, gym and programming.**
 
