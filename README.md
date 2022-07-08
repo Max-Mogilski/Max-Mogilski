@@ -5,7 +5,7 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🧠 I’m currently learning **React.**
+- 🧠 I’m currently learning **React** and **Typesctipt**
 
 - 📫 How to reach me **maxasdev@gmail.com**
 
