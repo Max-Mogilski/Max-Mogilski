@@ -18,8 +18,6 @@
 
 - Make fullstack app
 
-- Participant in open source project
-
 ## Skills and Tools
 * / REACT / HTML / CSS / JS / SASS / TESTING / JEST / API / BOOTSTRAP / NPM / WEBPACK / ESLINT / SLICK / BABEL / BEM / STYLED-COMPONENTS / CSS-MODULES / SPA / FIREBASE /
 
