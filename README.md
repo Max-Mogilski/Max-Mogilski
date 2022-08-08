@@ -16,7 +16,7 @@
 
 - Become a front-end developer
 
-- Make fullstack app
+- Make a fullstack app
 
 ## Skills and Tools
 * / REACT / HTML / CSS / JS / SASS / TESTING / JEST / API / BOOTSTRAP / NPM / WEBPACK / ESLINT / SLICK / BABEL / BEM / STYLED-COMPONENTS / CSS-MODULES / SPA / FIREBASE /
