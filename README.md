@@ -6,7 +6,7 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🧠 I’m currently learning **Redux** and **Typescript**
+- 🧠 I’m currently learning **Redux** and **Figma**
 
 - 📫 How to reach me **maxasdev@gmail.com**
 
