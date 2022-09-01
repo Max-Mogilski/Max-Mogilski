@@ -6,6 +6,8 @@
 
 ## 👨🏻‍💻 About Me
 
+- 💻 Currently working on "haveFun" online casino site
+
 - 🧠 I’m currently learning **Redux** and **Figma**
 
 - 📫 How to reach me **maxasdev@gmail.com**
