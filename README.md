@@ -8,7 +8,7 @@
 
 - 💻 Currently working on "haveFun" online casino site
 
-- 🧠 I’m currently learning **Redux** and **Figma**
+- 🧠 I’m currently learning **Redux** and **Typescript**
 
 - 📫 How to reach me **maxasdev@gmail.com**
 
