@@ -8,7 +8,7 @@
 
 - 💻 Currently working on "haveFun" online casino site
 
-- 🧠 I’m currently learning **Typescript**
+- 🧠 I’m currently learning **Typescript** and **Testing**
 
 - 📫 How to reach me **maxasdev@gmail.com**
 
