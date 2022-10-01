@@ -10,7 +10,7 @@
 
 - 🧠 I’m currently learning **Typescript** and **Testing**
 
-- 📫 How to reach me **maxasdev@gmail.com**
+- 📫 How to reach me **maxmogilski@gmail.com**
 
 - ⚡ Fun fact **I love to play guitar. I cannot live without music, gym and programming.**
 
