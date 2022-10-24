@@ -6,7 +6,7 @@
 
 ## 👨🏻‍💻 About Me
 
-- 💻 Currently working on "haveFun" online casino site
+- 💻 Currently working on "shopNow" ecommerce website
 
 - 🧠 I’m currently preparing for coding interview
 
