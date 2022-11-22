@@ -8,7 +8,7 @@
 
 - 💻 Currently working on "shopNow" ecommerce website
 
-- 🧠 I’m currently preparing for a coding interview
+- 🧠 I’m currently getting better at test driven development
 
 - 📫 How to reach me **maxmogilski@gmail.com**
 
