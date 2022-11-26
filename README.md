@@ -6,7 +6,7 @@
 
 ## 👨🏻‍💻 About Me
 
-- 💻 Currently working on "shopNow" ecommerce website
+- 💻 Currently working on HaveFun organization
 
 - 🧠 I’m currently getting better at test driven development
 
