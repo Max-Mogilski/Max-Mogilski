@@ -6,6 +6,8 @@
 
 ## 👨🏻‍💻 About Me
 
+- 👾 Creator of the HaveFun organization 👾
+
 - 💻 Currently working on HaveFun organization
 
 - 🧠 I’m currently getting better at test driven development
