@@ -8,7 +8,7 @@
 
 - 👾 Creator of the HaveFun organization 👾
 
-- 💻 Currently working on HaveFun organization
+- 💻 Currently working on the "Don't buy" project for the HaveFun organization
 
 - 🧠 I’m currently getting better at test driven development
 
