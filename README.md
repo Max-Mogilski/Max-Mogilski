@@ -10,7 +10,7 @@
 
 - 💻 Currently working on the "Don't buy" project for the HaveFun organization
 
-- 🧠 I’m currently getting better at test driven development
+- 🧠 I’m currently learning three js and getting better at test driven development
 
 - 📫 How to reach me **maxmogilski@gmail.com**
 
