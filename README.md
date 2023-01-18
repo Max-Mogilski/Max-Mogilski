@@ -8,7 +8,7 @@
 
 - 👾 Creator of the HaveFun organization 👾
 
-- 💻 Currently working on the "Don't buy" project for the HaveFun organization
+- 💻 Currently working on an application for buskers
 
 - 🧠 I’m currently learning next js and getting better at testing (vitest)
 
