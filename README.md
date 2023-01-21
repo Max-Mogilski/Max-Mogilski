@@ -8,7 +8,7 @@
 
 - 👾 Creator of the HaveFun organization 👾
 
-- 💻 Currently working on an application for buskers
+- 💻 Currently working on the "WearMe" application
 
 - 🧠 I’m currently learning next js and getting better at testing (vitest)
 
