@@ -10,7 +10,7 @@
 
 - 💻 Currently working on the "WearMe" application
 
-- 🧠 I’m currently learning next js and getting better at testing (vitest)
+- 🧠 I’m currently learning node.js / express and getting better at testing (vitest)
 
 - 📫 How to reach me **maxmogilski@gmail.com**
 
