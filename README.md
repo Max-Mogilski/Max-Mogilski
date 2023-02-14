@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **maxmogilski@gmail.com**
 
-- ⚡ **I love to play guitar. I cannot live without music, gym and programming.**
+- ⚡ **I love playing guitar. I cannot live without music, gym and programming.**
 
 ## Skills and Tools
 * / REACT / NEXTJS / HTML / CSS / JS / TYPESCRIPT / SASS / TESTING / JEST / VITEST / API / BOOTSTRAP / NPM / WEBPACK / BABEL / BEM / STYLED-COMPONENTS / CSS-MODULES / FIREBASE v8/9 / CANVAS / REDUX /
