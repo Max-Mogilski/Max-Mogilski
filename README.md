@@ -6,8 +6,6 @@
 
 ## 👨🏻‍💻 About Me
 
-- 👾 Creator of the HaveFun organization 👾
-
 - 💻 Currently working on the "WearMe" application
 
 - 🧠 I’m currently learning node.js / express and getting better at testing (vitest)
