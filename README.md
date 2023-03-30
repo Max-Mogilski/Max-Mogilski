@@ -6,8 +6,6 @@
 
 ## 👨🏻‍💻 About Me
 
-- 💻 Currently working on the "WearMe" application
-
 - 🧠 I’m currently learning node.js / express
 
 - 📫 How to reach me **maxmogilski@gmail.com**
