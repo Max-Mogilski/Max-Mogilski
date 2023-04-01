@@ -6,7 +6,7 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🧠 I’m currently learning node.js / express
+- 🧠 I’m currently learning Angular
 
 - 📫 How to reach me **maxmogilski@gmail.com**
 
