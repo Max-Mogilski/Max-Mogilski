@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **maxmogilski@gmail.com**
 
-- ⚡ **I love playing guitar. I cannot live without music, gym and programming.**
-
 ## Skills and Tools
 * / REACT / NEXTJS / ANGULAR / RXJS / ANGULAR MATERIAL / NGRX / HTML / CSS / JS / TYPESCRIPT / SASS / TESTING / JEST / VITEST / REACT TESTING LIBRARY / API / BOOTSTRAP / TAILWIND / NPM / WEBPACK / BABEL / BEM / STYLED-COMPONENTS / CSS-MODULES / FIREBASE v8/9 / CANVAS / REDUX / REACT QUERY / ZUSTAND /
 
