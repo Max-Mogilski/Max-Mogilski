@@ -5,7 +5,7 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🧠 I’m currently learning Figma
+- 🧠 I’m currently learning Nodejs and Express
 
 - 📫 How to reach me **maxmogilski@gmail.com**
 
