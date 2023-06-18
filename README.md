@@ -5,7 +5,7 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🧠 I’m currently learning Nodejs and Express
+- 🧠 I’m currently learning SQL
 
 - 📫 How to reach me **maxmogilski@gmail.com**
 
