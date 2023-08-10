@@ -5,7 +5,7 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🧠 I’m currently learning Docker
+- 🧠 I’m currently learning Docker and react native
 
 - 📫 How to reach me **maxmogilski@gmail.com**
 
