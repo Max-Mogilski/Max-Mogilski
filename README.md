@@ -5,7 +5,7 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🧠 I’m currently learning Nestjs and Linux
+- 🧠 I’m currently learning React Native
 
 - 📫 How to reach me **maxmogilski@gmail.com**
 
