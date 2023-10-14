@@ -5,7 +5,7 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🧠 I’m currently learning React Native
+- 🧠 I’m currently learning Linux
 
 - 📫 How to reach me **maxmogilski@gmail.com**
 
