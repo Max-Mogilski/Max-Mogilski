@@ -5,7 +5,7 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🧠 I’m currently learning Linux
+- 🧠 I’m currently learning Linux and gh actions
 
 - 📫 How to reach me **maxmogilski@gmail.com**
 
