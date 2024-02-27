@@ -5,7 +5,7 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🧠 I’m currently learning redis and nestjs
+- 🧠 I’m currently learning react native and redis
 
 - 📫 How to reach me **maxmogilski@gmail.com**
 
