@@ -5,7 +5,7 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🧠 I’m currently learning react native and redis
+- 🧠 I’m currently learning AWS
 
 - 📫 How to reach me **maxmogilski@gmail.com**
 
@@ -15,6 +15,9 @@ Frontend:
 
 Backend: 
 * / EXPRESS / TYPESCRIPT / NODEJS / MYSQL / SQL / POSTMAN /
+
+Mobile:
+* / REACT NATIVE / EXPO /
 
 Others:
 * / DOCKER / LINUX / VM /
