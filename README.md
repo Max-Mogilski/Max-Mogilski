@@ -5,8 +5,7 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🧠 I’m currently learning AWS
-
+- 🧠 I’m currently learning AWS and Rust 🦀
 - 📫 How to reach me **maxmogilski@gmail.com**
 
 ## Skills and Tools
