@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 About Me
 
-- 🧠 I’m currently learning AWS and Rust 🦀
+- 🧠 I’m currently learning Rust 🦀
 - 📫 How to reach me **maxmogilski@gmail.com**
 
 ## Skills and Tools
@@ -14,4 +14,4 @@ Mobile:
 * / REACT NATIVE / EXPO /
 
 Others:
-* / DOCKER / LINUX / VM /
+* / DOCKER / LINUX / VM / AWS
