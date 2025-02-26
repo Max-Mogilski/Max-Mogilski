@@ -1,6 +1,5 @@
 ## 👨🏻‍💻 About Me
 
-- 🧠 I’m currently learning Rust 🦀
 - 📫 How to reach me **maxmogilski@gmail.com**
 
 ## Skills and Tools
